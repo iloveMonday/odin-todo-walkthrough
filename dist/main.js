@@ -1,0 +1,1 @@
+(()=>{console.log("we're so back, baby");const e=document.querySelector(".content"),t=document.createElement("h1");t.textContent="HELLO WORLDY// TEST FROM WEBPACK INDEX.JS DOM MANIP",e.appendChild(t)})();

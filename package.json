@@ -1,0 +1,21 @@
+{
+  "name": "todo-walkthrough",
+  "version": "1.0.0",
+  "description": "todo-walkthrough",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iloveMonday/odin-todo-walkthrough.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
